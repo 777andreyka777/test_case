@@ -1,4 +1,5 @@
-
+Делаем мод исполняемым:
+chmod +x /usr/local/bin/monitor_test.sh
 
 
 Create monitor_test.service
